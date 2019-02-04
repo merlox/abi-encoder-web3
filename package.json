@@ -18,11 +18,14 @@
     "css-loader": "^0.28.4",
     "ethereumjs-abi": "0.6.4",
     "json-loader": "^0.5.7",
-    "react": "^15.6.1",
+    "react": "^15.6.2",
     "react-dom": "^15.6.1",
     "style-loader": "^0.18.2",
     "truffle": "^3.4.8",
     "web3": "0.20.0",
     "webpack": "^3.5.4"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
   }
 }
